@@ -1,0 +1,9 @@
+
+#
+# Project configuration file for
+# gameapp1
+#
+
+projectname: gameapp1
+vendorid: com.mycompany
+mainmodule: com.mycompany.gameapp1
